@@ -1,6 +1,6 @@
 import java.awt.Color;
 
-public class Team {
+public class Team implements Comparable{
 	private String name;
 	private int rank; 
 	private Color color;
@@ -43,4 +43,12 @@ public class Team {
 	public String toString(){
 		return name;
 	}
+
+	@Override
+	public int compareTo(Object other) {
+		int compareInt = this.getName().compareTo(((Team) other).getName());
+		if (compareInt < 0) return -1;
+		else return 1;
+	}
+
 }

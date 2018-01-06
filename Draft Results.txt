@@ -1,65 +1,65 @@
 Draft Results:
-1. duke
-2. kentucky
-3. kansas
-4. maryland
-5. syracuse
-6. bringham young
-7. north carolina
-8. villanova
-9. michigan st
-10. purdue
-11. washington
-12. vanderbilt
-13. miami (ohio)
-14. st bonnaventure
-15. eastern illinois
-16. utah st
-17. tennessee
-18. michigan
-19. kansas st
-20. wisconsin
-21. ohio st
-22. seton hall
-23. penn state
-24. west virginia
-25. baylor
-26. georgia tech
-27. louisville
-28. utep
-29. new hampshire
-30. sienna
-31. coastal carolina
-32. creighton
-33. oregon
-34. auburn
-35. xavier
-36. butler
-37. ucla
-38. texas
-39. california
-40. texas a&m
-41. south carolina
-42. oklahoma st
-43. illinois
-44. clemson
-45. uw - green bay
-46. alcorn st
-47. applachian st
-48. wofford
-49. arizona st
-50. gonzaga
-51. notre dame
-52. florida
-53. wake forest
-54. connecticut
-55. minnesota
-56. temple 
-57. new mexico
-58. army
-59. georgetown
-60. stanford
-61. uw - milwaukee
-62. unc - asheville
-63. vmi
-64. lehigh
+1. Alabama State
+2. Alcorn State
+3. Arizona
+4. Arkansas
+5. Arkansas Pine Bluff
+6. Arkansas-Little Rock
+7. Army
+8. Auburn
+9. Ball State
+10. Binghamton
+11. Boston University
+12. Bowling Green
+13. Brigham Young
+14. Bucknell
+15. Buffalo
+16. CSU
+17. Cal State Fullerton
+18. Cal State Northridge
+19. California
+20. Campbell
+21. Central Michigan
+22. Chattanooga
+23. Clemson
+24. Cleveland State
+25. Colgate
+26. College of Charleston
+27. Colorado
+28. Colorado State
+29. Columbia
+30. Connecticut
+31. Coppin State
+32. Cornell
+33. Creighton
+34. Dartmouth
+35. Davidson
+36. Dayton
+37. Delaware State
+38. Denver
+39. Depaul
+40. Detroit
+41. Drake
+42. Drexel
+43. Duke
+44. Duquesne
+45. East Tennessee State
+46. Eastern Illinois
+47. Eastern Kentucky
+48. Eastern Michigan
+49. Elon
+50. Evansville
+51. FAMU
+52. FIU
+53. Fairfield
+54. Fairleigh Dickinson
+55. Florida
+56. Florida Atlantic
+57. Florida State
+58. Fordham
+59. Fresno State
+60. Furman
+61. Gardner-Webb
+62. George Mason
+63. George Washington
+64. Georgetown
